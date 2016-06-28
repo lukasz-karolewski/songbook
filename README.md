@@ -1,11 +1,12 @@
-Patadata
-========
+#songbook
 
-[![documentation](http://readthedocs.org/projects/patacrep/badge)](http://patacrep.readthedocs.io)
+##prerequisites
 
-Songs data for LaTeX songbooks.
+`sudo apt-get install texlive texlive-latex-base texlive-latex-recommended texlive-latex-extra`
+`sudo apt-get install texlive-lang-english texlive-lang-french texlive-lang-polish`
+`sudo apt-get install texlive-xetex`
 
-This data is meant to be processed by the songbook toolkit:
-- [command line client](https://github.com/patacrep/patacrep)
-- [gui client](https://github.com/patacrep/patagui) (not up-to-date with this data)
-- [web client](https://github.com/patacrep/patanet) work in progress.
+`sudo ln -s /usr/bin/luatex /usr/bin/lualatex`
+
+# Writing songs doc:
+http://songs.sourceforge.net/songsdoc/songs.html#sec5.1

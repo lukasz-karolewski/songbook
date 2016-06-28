@@ -1,0 +1,36 @@
+book:
+  lang: en
+  encoding: utf8
+  datadir: "."
+  pictures: no
+
+chords:
+  show: yes
+  diagramreminder: important
+  repeatchords: yes
+  lilypond: no
+
+authors:
+  separators:
+    - "and"
+    - "et"
+
+content:
+    sort:
+
+template:
+    default.tex : 
+        title : "Spiewnik"
+        author: "Ela i Lukasz"
+
+    patacrep.tex :
+        email: ''
+        url: ''
+        picturecopyright: ''
+        footer: ''
+
+        bgcolor:
+            songnumber: FFFFFF
+            note :  EEEEEE
+            index :  FFFFFF
+

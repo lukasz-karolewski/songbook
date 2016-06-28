@@ -1,2 +1,4 @@
-*-converted.pdf
-/.cache
+.cache/
+*.log
+*.tex
+*.pdf

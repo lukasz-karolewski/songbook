@@ -1,0 +1,191 @@
+[start]
+
+Standard tuning, no capo, key of G.
+
+Chords:
+If you're playing the riff:
+Csus2: x35533
+G:     32003x
+Dsus4: xx0233
+Em:    022000
+
+If you're NOT plauing the riff i.e. strumming:
+Cadd9: x32033 (will replace Csus2!)
+G:     320033
+D:     xx0232 (can replace Dsus4)
+Em7:   022033 (can replace Em)
+
+-----
+
+Riff too difficult? You can play this INSTEAD of the riff:
+D = downstrum
+m = mute (NOT palm-mute)
+Cadd9   G       D       Em7
+D D m   D D m   D D m   D D m
+1 & 2 & 3 & 4 & 1 & 2 & 3 & 4 &
+
+Guitar riff:
+           hit (body)           mute        
+     Csus2              G                   
+E||--3-----x--------------------x----------|
+B||--3-----x------------------3-x----3-----|
+G||--5-----x----------0-----0---x------0---|
+D||--5-----x--------------0-----x--------0-|
+A||--3-----x--------------------x----------|
+E||--x-----x------------3-------x----------|
+     1  &  2     &      3   &   4      &
+
+        hit (body)            mute         
+  Dsus4              Em                    
+--3-----x---------------------x----------||
+--3-----x-------------------0-x----0-----||
+--2-----x----------0------0---x------0---||
+--0-----x---------------2-----x--------0-||
+--x-----x---------------------x----------||
+--x-----x------------0--------x----------||
+  1  &  2     &      3    &   4      &
+
+Alt chorus:
+This is how the chorus can be played alternatively.
+D = downstrum
+m = mute (NOT palm-mute)
+Cadd9   G       D       Em7 D
+D D m   D D m   D D m   D m D m
+1 & 2 & 3 & 4 & 1 & 2 & 3 & 4 &
+
+The 'stop riff' parts marked with a * should be played like below:
+Csus2   G       Dsus4
+D D m   D D m   D D m   D m
+1 & 2 & 3 & 4 & 1 & 2 & 3 & 4 &
+
+Connecting passage 2, also marked with a *:
+Csus2   G       Dsus4   Em  D
+D D m   D D m   D D m   D m D m
+1 & 2 & 3 & 4 & 1 & 2 & 3 & 4 &
+
+Intro: (play above riff)
+Csus2 G Dsus4 Em
+
+Verse one: (play riff)
+Csus2                    G
+I remember when we broke up the first time
+Dsus4                        Em
+Seeing this is it, I've had enough, 'cause like
+   Csus2                        G
+We haven't seen each other in a month
+          Dsus4              Em
+When you, said you, needed space, what?
+
+Verse two: (play riff)
+Csus2                          G
+Then you come around again and say
+        Dsus4                          Em
+Baby, I miss you and I swear I'm gonna change
+            Csus2                        G
+Trust me, remember how that lasted for a day
+         Dsus4                      Em
+I say, I hate you, we break up, you call me, I love you
+
+Pre-Chorus: (play riff)
+Csus2     G           Dsus4         Em
+Oooh, ooh-oh-oh-oh we called it off again last night
+    Csus     G        Dsus4         Em
+But Ooh, ooh-oh-oh-oh this time I'm telling you, I'm telling you
+
+Chorus: (play riff or play chords according to 'alt chorus')
+* = do NOT play when playing riff, DO play when playing chords
+Csus2  G             Dsus4     Em     D*
+We are never ever ever getting back together
+Csus2  G             Dsus4     Em     D*
+We are never ever ever getting back together
+Csus2          G
+You go talk to your friends talk
+   Dsus4               Em D*
+To my friends talk to me
+(stop riff)*
+    Csus2  G                 Dsus4
+But we are never ever ever ever getting back together
+
+Connecting passage:
+(play riff)
+Csus4 G     Dsus4     Em
+        Like      ever...
+
+Verse three: (play riff)
+    Csus4                         G
+I'm really gonna miss you picking fights
+        Dsus4                            Em
+And me, falling for a screaming that I'm right
+              Csus2                            G              
+And you, will hide away and find your piece of mind,
+
+Dsus4                    Em
+with some, Indie record that's much cooler than Mine
+
+Pre-Chorus: (play riff)
+Csus2      G             Dsus4         Em
+Oooh,  ooh-oh-oh-ohh you called me up again tonight
+    Csus     G        Dsus4         Em
+But oooh, oh-oh-oh-oh this time I'm telling you, I'm telling you
+
+Chorus: (play riff or play chords according to 'alt chorus')
+Csus2  G            Dsus4      Em     D*
+We are never ever ever getting back together
+Csus2  G            Dsus4      Em     D*
+We are never ever ever getting back together
+Csus2          G
+You go talk to your friends talk
+   Dsus4              Em
+To my friends talk to me (talk to me)
+(stop riff)*
+    Csus2  G              Dsus4
+But we are never ever ever ever getting back together
+
+Connecting passage 2*: (play riff or play chords acoording to 'alt chorus')
+Csus2     G
+Oooh, ooh-oh-oh-oh (yeah)
+Dsus4     Em7   D*
+Oooh, ooh-oh-oh-oh oh (yeah)
+Csus2     G
+Oooh, ooh-oh-oh-oh (yeah)
+Dsus4      Em  D*
+      Ooh, ooh
+
+Bridge: (filter drop, play riff or... palm muting works - 8th notes, downstrums)
+Csus2     G           Dsus4       Em
+I used to think, that we, were forever ever ever
+    Csus4     G   Dsus4      Em
+And I used to say never say never
+Csus2      G                           Dsus4
+ Huh, he calls me up and he's like "I still love you"
+            Em                 Csus2                   G
+And I'm like, I'm just, I mean this is exhausting, you know
+                     Dsus4 (tape stop)
+We are never getting back together, like ever
+
+NOO!
+
+Chorus: (play riff or play chords according to 'alt chorus')
+Csus2  G            Dsus4      Em     D*
+We are never ever ever getting back together
+Csus2  G            Dsus4      Em     D*
+We are never ever ever getting back together
+Csus2          G
+You go talk to your friends talk
+   Dsus4              Em
+To my friends talk to me
+    Csus2  G              Dsus4         Em     D*
+But we are never ever ever ever getting back together
+Csus    G         Dsus4  Em
+We, ooh-oh-oh-oh, ooh-oh-oh-oh (getting back together)
+Csus2      G      Dsus4       Em     D* 
+We, ooh-oh-oh-oh, oh, getting back together
+Csus2          G
+You go talk to your friends talk
+   Dsus4              Em D*
+To my friends talk to me
+(stop riff)*
+    Csus2  G              Dsus4
+But we are never ever ever ever getting back together
+
+[end]
