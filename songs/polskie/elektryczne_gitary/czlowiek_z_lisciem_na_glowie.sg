@@ -1,0 +1,43 @@
+\selectlanguage{english}
+\songcolumns{1}
+\beginsong{Człowiek z liściem na głowie}
+  [by={Elektryczne\ Gitary}]
+
+\begin{verse*}
+  \musicnote{\Intro: \nolyrics \[G F C F C  \rep{2}  C E7]}
+\end{verse*}
+
+\begin{verse}
+  \[a]Wsiadł do autobusu człowiek z \[e]liściem na głowie
+  \[G]Nikt go nie poratuje, \[D]nikt mu nic nie powie
+  \[F]Tylko się każdy \[G]gapi, \[C]tylko się \[F]każdy \[C]gapi i \[E]nic
+\end{verse}
+
+\begin{verse}
+  Siedzi w autobusie człowiek z liściem na głowie
+  O liściu w swych rzadkich włosach nieprędko się dowie
+  Tylko się w okno gapi, tylko się w okno gapi i nic
+\end{verse}
+
+\begin{chorus}
+  \[d]Uważaj to nie \[G]chmury, \[C]to \[F]Pałac \[C]Kultury
+  \[G]Liście lecą z \[F]drzew, \[C]liście lecą z \[E]drzew
+\end{chorus}
+
+\begin{verse}
+  I tak siedzi w autobusie człowiek z liściem na głowie
+  Nikt go nie poratuje, nikt mu nic nie powie
+  Tylko się każdy gapi, tylko się każdy gapi  i nic
+\end{verse}
+
+\begin{verse}
+  Wsiadł drugi podobny, nad człowiekiem się zlitował
+  Tamten się pogłaskał w główkę liścia sobie schował
+  Bo ja mówi, jestem z lasu, bo ja mówi, jestem z lasu i nic
+\end{verse}
+
+\begin{chorus}
+  \[d]Uważaj to nie \[G]chmury, \[C]to \[F]Pałac \[C]Kultury
+  \[G]Liście lecą z \[F]drzew, \[C]liście lecą z \[E]drzew
+\end{chorus}
+\endsong

@@ -1,0 +1,49 @@
+\selectlanguage{english}
+\songcolumns{1}
+\beginsong{Stokrotka}
+  [by={Biesiadne}]
+  na melodie zombie, cranberries
+  \begin{verse*}
+    \musicnote{\Intro: \nolyrics \[e C G(prawdziwe) Dsus]}
+  \end{verse*}
+
+  \begin{verse}
+    Gdzie strumyk płynie z wolna,                        
+    Rozsiewa zioła maj                                    
+    Stokrotka rosla polna ,                               
+    A nad nią szumiał gaj                                 
+  \end{verse}
+
+  \begin{verse}        
+    W tym gaju ponuro ,
+    Że aż przeraża mnie .
+    Ptaszęta za wysoko
+    A mnie samotnej żle
+  \end{verse}
+  \begin{chorus}
+    na polanie, na polanie, stokrotka, stokrotka, stokrotka, a,a,a,
+    na polanie, na polanie, stokrotka, stokrotka, stokrotka, a,a,a,
+  \end{chorus}
+  
+  \begin{verse}
+    Wtem harcerz idzie z wolna,
+    Stokrotko, witam cię ,
+    Twój urok mnie zachwyca,
+    Czy chcesz być mą czy nie?
+  \end{verse}
+
+  \begin{verse}
+    a ona sie zgodziła
+    I poszli w ciemny las
+    A harcerz taki gapa
+    Że aż w pokrzywy wlazł
+  \end{verse}
+  \begin{chorus}
+		na polanie, na polanie, stokrotka, stokrotka, stokrotka, a,a,a,
+		na polanie, na polanie, stokrotka, stokrotka, stokrotka, a,a,a,
+  \end{chorus}
+  \begin{chorus}
+		na polanie, na polanie, stokrotka, stokrotka, stokrotka, a,a,a,
+		na polanie, na polanie, stokrotka, stokrotka, stokrotka, a,a,a,
+  \end{chorus}
+\endsong

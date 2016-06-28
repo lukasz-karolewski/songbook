@@ -1,0 +1,45 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{Baśka}
+[by={Wilki}]
+
+\begin{verse*}
+  \musicnote{\Intro: \nolyrics \[G a C G]}
+\end{verse*}
+
+\begin{verse}
+  \[G]Baska miala \[a]fajny biust
+  \[C]Ania styl a Zoska cos co \[G]lubie.
+  Ela calowala cudnie
+  Nawet tuz po swoim slubie.
+  Z Kaska mozna bylo konie krasc
+  Chociaz wiem, ze chciala przezyc ze mna swój pierwszy raz.
+  Magda zlo, Olga mnie, zaglaskalaby na smierc
+  A Agnieszka zdradzala mnie.
+\end{verse}
+
+\begin{chorus}
+  \[C]Piekne jak \[G]okret,
+  \[a]Pod pelnymi \[e]żaglami,
+  Jak konie w galopie,
+  Jak niebo nad nami.
+\end{chorus}
+
+\begin{verse}
+  Karolina w Hollywod
+  Z Aska nigdy nie bylo tak samo
+  Ewelina zimna jak lód
+  Wiec na noc umówilem sie z Ala
+  Wszystko móglbym Izie dac
+  Tak jak Oli ale one wcale nie chcialy brac
+  Malgorzata jeden grzech, az oniesmielala mnie
+  A Monika byla Ok-ej
+\end{verse}
+
+\begin{chorus}
+  \[C]Piekne jak \[G]okret,
+  \[a]Pod pelnymi \[e]żaglami,
+  Jak konie w galopie,
+  Jak niebo nad nami.
+\end{chorus}
+\endsong
