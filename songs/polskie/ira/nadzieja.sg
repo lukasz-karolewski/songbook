@@ -2,9 +2,10 @@
 \songcolumns{1}
 \beginsong{Nadzieja}
   [by={Ira}]
-\begin{verse*}
-  \musicnote{\Intro: \nolyrics \[D C2 G C2  \rep{2}]}
-\end{verse*}
+
+\gtab*{C2}{X30033}
+
+\musicnote{\Intro: \nolyrics \[D C2 G C2  \rep{2}]}
 
 \begin{verse}
 D C2 G C2 
