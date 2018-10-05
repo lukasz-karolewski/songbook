@@ -1,12 +1,8 @@
-#songbook
+# My songbook
 
-##prerequisites
+install `docker` and then 
 
-`sudo apt-get install texlive texlive-latex-base texlive-latex-recommended texlive-latex-extra`
-`sudo apt-get install texlive-lang-english texlive-lang-french texlive-lang-polish`
-`sudo apt-get install texlive-xetex`
+- `./generate_pdf.sh <spiewnik.yaml>`
 
-`sudo ln -s /usr/bin/luatex /usr/bin/lualatex`
-
-# Writing songs doc:
+# Writing songs:
 http://songs.sourceforge.net/songsdoc/songs.html#sec5.1
